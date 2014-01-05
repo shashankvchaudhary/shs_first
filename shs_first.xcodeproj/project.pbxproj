@@ -26,7 +26,7 @@
 
 /* Begin PBXFileReference section */
 		DE9DEC2F1879C43600C1D250 /* shs_first */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = shs_first; sourceTree = BUILT_PRODUCTS_DIR; };
-		DE9DEC321879C43600C1D250 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		DE9DEC321879C43600C1D250 /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; lineEnding = 0; path = main.c; sourceTree = "<group>"; usesTabs = 1; };
 		DE9DEC341879C43600C1D250 /* shs_first.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = shs_first.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
